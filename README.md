@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @wuyou012
-- 🌱 I’m currently a final year student at The Hong Kong Polytechnic University (PolyU).
+- 🌱 I’m currently a final year undergraduate student at The Hong Kong Polytechnic University (PolyU).
 - 💞️ I’m looking for Master/PhD position
 - 📫 [plume.he@connect.polyu.hk](plume.he@connect.polyu.hk)
 
