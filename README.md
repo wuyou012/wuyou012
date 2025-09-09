@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @wuyou012
-- 🌱 I’m currently a final year undergraduate student at The Hong Kong Polytechnic University (PolyU).
-- 💞️ I’m looking for RA/Master/PhD position
+- 🌱 I received my Bachelor's degree from The Hong Kong Polytechnic University (PolyU).
+- 💞️ RA(incoming PhD) at The University of Hong Kong.
 - 📫 [plume.he@connect.polyu.hk](plume.he@connect.polyu.hk)
 
 
